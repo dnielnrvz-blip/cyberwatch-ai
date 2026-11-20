@@ -1,0 +1,5 @@
+timestamp,hostname,source_ip,destination_ip,domain,url,file_hash,event_type,failed_logins,outbound_connections
+2026-11-19T09:00:00,PC-VENTAS-01,192.0.2.20,203.0.113.10,malware-lab.test,http://malware-lab.test/payload,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,outbound_connection,0,12
+2026-11-19T09:03:00,PC-RRHH-02,192.0.2.30,198.51.100.25,portal.example.test,https://portal.example.test/login,,user_login,7,8
+2026-11-19T09:05:00,SRV-APP-01,192.0.2.40,198.51.100.40,app.example.test,https://app.example.test/status,,health_check,0,145
+2026-11-19T09:07:00,PC-IT-04,192.0.2.50,198.51.100.55,tools.example.test,https://tools.example.test/run,,powershell_encoded,0,4

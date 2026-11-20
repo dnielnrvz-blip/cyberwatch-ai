@@ -1,0 +1,26 @@
+{
+  "ip": [
+    {
+      "value": "203.0.113.10",
+      "description": "IP reservada para documentaci\u00f3n; marcada solo para demostraci\u00f3n."
+    }
+  ],
+  "domain": [
+    {
+      "value": "malware-lab.test",
+      "description": "Dominio ficticio de laboratorio."
+    }
+  ],
+  "url": [
+    {
+      "value": "http://malware-lab.test/payload",
+      "description": "URL ficticia de laboratorio."
+    }
+  ],
+  "hash": [
+    {
+      "value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "description": "Hash sint\u00e9tico de demostraci\u00f3n."
+    }
+  ]
+}
